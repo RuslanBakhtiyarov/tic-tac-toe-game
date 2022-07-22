@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.tic-tac-toe{
+  width: 348px;
+  height: 350px;
+  border: 2px solid black;
+  margin: 5px auto;
+}
+.ttt-grid{
+  width: 116px;
+  height: 117px;
+  border: 1px solid black;
+  float: left;
+  box-sizing: border-box;
+  text-align: center;
+  font-size: 50px;
+  padding-top: 30px;
+}
+
